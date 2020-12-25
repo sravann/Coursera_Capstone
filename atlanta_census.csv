@@ -1,0 +1,26 @@
+NPU,Major neighborhoods,Region,2017_Pop,Median_Age,Income,Median_Home_Value,2010_Pop,2000_Pop,Growth %
+A,Paces/ Margaret Mitchell/ Mt. Paran/Northside/ Chastain Park,Buckhead,12212.00,46.20,195259.00,961111.00,11687.00,11300.00,3.40%
+B,Buckhead Village/ North Buckhead/ Lindbergh/ Pine Hills/Peachtree Heights/ Garden Hills,Buckhead,59094.00,36.80,85552.00,491720.00,47292.00,38645.00,22.40%
+C,Collier Hills/Peachtree Battle/Arden/Habersham/SW Buckhead (W of Northside/S of Wesley),Buckhead,23236.00,38.00,92615.00,630175.00,18122.00,16199.00,11.90%
+D,Whittier Mill Village/ Riverside/ Bolton/ Underwood Hills/ Huff Rd in W Midtown/ Berkeley Park,Border Buckhead/West Midtown/Northwest,14591.00,32.50,76631.00,296014.00,10690.00,8690.00,23.00%
+E,Midtown/ Georgia Tech/ Atlantic Station/ Loring Heights/ Brookwood Hills,Downtown/Midtown,53116.00,30.50,72766.00,330484.00,42121.00,34461.00,22.20%
+F,Virginia-Highland/ Morningside/Lenox Park,Northeast / East,33198.00,33.50,76277.00,554154.00,23641.00,20890.00,13.20%
+G,West Highlands/ Carey Park,Northwest,9006.00,29.30,19185.00,124171.00,8381.00,11632.00,-27.90%
+H,Adamsville/areas S of I-20/W of I-285/N of Cascade Rd,Southwest,14624.00,35.90,26147.00,116396.00,14049.00,17274.00,-18.70%
+I,Collier Heights/ Peyton Forest/ Cascade Heights,Southwest,21310.00,40.00,34658.00,162343.00,20741.00,21500.00,-3.50%
+J,Grove Park/ Center Hill,Northwest,12471.00,38.40,23023.00,90516.00,12533.00,17085.00,-26.60%
+K,Bankhead/ Washington Park/ Mozley Park/ Hunter Hills,Northwest,9875.00,36.90,27116.00,112422.00,9399.00,11997.00,-21.70%
+L,English Avenue/ Vine City/(The Bluff),Northwest,6669.00,29.20,28062.00,137500.00,6148.00,7316.00,-16.00%
+M,Downtown/ Old Fourth Ward/ Sweet Auburn/ Castleberry Hill,Downtown/Midtown,32472.00,30.70,51937.00,215690.00,26886.00,21359.00,25.90%
+N,Inman Park/ Candler Park/ Poncey-Highland/ Reynoldstown/ Cabbagetown/ Lake Claire,Northeast / East,20561.00,35.30,81614.00,401754.00,17389.00,14688.00,18.40%
+O,Edgewood/ Kirkwood/ East Lake,Northeast / East,15305.00,36.60,55259.00,271520.00,13886.00,14724.00,-5.70%
+P,Ben Hill/(SW Atlanta W of I-285),Southwest,19387.00,36.70,47811.00,177521.00,17363.00,11911.00,45.80%
+Q,Midwest Cascade/Regency Trace,Southwest,3522.00,41.20,61465.00,245135.00,1770.00,1024.00,72.90%
+R,Adams Park/Campbellton Road/ Greenbriar,Southwest,18012.00,37.00,30964.00,161951.00,16452.00,16679.00,-1.40%
+S,Oakland City/ Venetian Hills/Cascade Avenue/Road/ Fort McPherson,Southwest,10505.00,38.90,30764.00,106780.00,10204.00,12396.00,-17.70%
+T,West End/ Westview/ Atlanta University Center/Ashview Heights,Southwest,17220.00,24.70,27408.00,135556.00,16280.00,20095.00,-19.00%
+V,Capitol Gateway/ Summerhill/ Peoplestown/ Mechanicsville/ Pittsburgh/ Adair Park,Southwest,15385.00,32.20,21095.00,168387.00,14198.00,15825.00,-10.30%
+W,Grant Park/ East Atlanta/ Ormewood Park/ Benteen Park,Northeast / East,22655.00,36.40,68598.00,266044.00,19233.00,20054.00,-4.10%
+X,Metropolitan Parkway (Atlanta) corridor: Capitol View/ Sylvan Hills/ Perkerson,Southwest,12604.00,38.50,21557.00,103995.00,12398.00,14999.00,-17.30%
+Y,South Atlanta/ Lakewood Heights/ Chosewood Park,Southeast,11151.00,34.20,21326.00,126734.00,11111.00,12472.00,-10.90%
+Z,Thomasville Heights/Glenrose Park/Southern Jonesboro Rd Corridor,Southeast,19006.00,31.50,22862.00,96033.00,18050.00,24210.00,-25.40%
